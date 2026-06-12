@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Allow access to external directories for camera capture -->
+    <external-path name="external_files" path="." />
+    <!-- Allow access to cache directories for sharing files -->
+    <cache-path name="cache_files" path="." />
+    <!-- Allow access to internal files directory -->
+    <files-path name="internal_files" path="." />
+</paths>
